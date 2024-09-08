@@ -16,6 +16,13 @@ ENV/
 env/
 *.env
 
+# Data files
+*.csv
+*.xlsx
+
+# Ignore Python pickle files
+*.pkl
+
 # Logs
 *.log
 
